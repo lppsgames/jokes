@@ -11,7 +11,7 @@ document.addEventListener('mousemove', function(event) {
 goose.addEventListener('mouseover', function() {
   document.body.style.cursor = 'none';
   goose.style.cursor = 'none';
-  goose.src = 'https://pngimg.com/uploads/goose/small/goose_PNG5.png';
+  goose.src = 'goose.png';
 });
 
 goose.addEventListener('click', function() {
